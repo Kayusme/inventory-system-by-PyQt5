@@ -1,0 +1,1 @@
+# inventory-system-by-PyQt5
